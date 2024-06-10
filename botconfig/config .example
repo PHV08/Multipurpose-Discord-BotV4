@@ -1,0 +1,38 @@
+{
+   "prefix": "",
+   "ownerIDS": [
+      ""
+   ],
+   "bannermusic": "",
+   "memer_api": "",
+   "status": {
+      "text": "",
+      "text2": "",
+      "type": "STREAMING",
+      "url": "https://twitch.tv/#"
+   },
+   "clientsettings": {
+      "nodes": [
+         {
+            "host": "",
+            "port": 80, 
+            "password": ""
+         }
+      ]
+   },
+   "spotify": {
+      "clientSecret": "",
+      "clientID": ""
+   },
+   "settings": {
+      "leaveOnEmpty_Channel": {
+         "enabled": true,
+         "time_delay": 30000
+      },
+      "LeaveOnEmpty_Queue": {
+         "enabled": true,
+         "time_delay": 30000
+      },
+      "selfDeaf": true
+   }
+}
